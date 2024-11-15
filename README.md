@@ -1,0 +1,2 @@
+# IoT_based-Temprature-and-Humidity-Monitoring-System
+This project showcases a simple and effective IoT solution for real-time temperature and humidity monitoring using an ESP32-S microcontroller and a DHT11 sensor. The data is displayed on a smartphone via the Blynk App, making it perfect for applications such as environmental monitoring, smart homes, and agricultural automation.
